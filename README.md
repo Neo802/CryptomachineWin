@@ -19,7 +19,7 @@ It is capable of performing several cryptographic tasks for several classical **
 
 ## System Requirements
 - Minimum: Windows Vista SP2
-- Recommended: Windows 10 22H2
+- Recommended: Windows 10 22H2 and above
 
 **Created by Neo802, now free for use under MIT License since July 15th 2025.**
 
