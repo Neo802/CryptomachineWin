@@ -11,8 +11,8 @@ It is capable of performing several cryptographic tasks for several classical **
 - Four-Square
 
 ## System Requirements
-Minimum: Windows Vista SP2
-Recommended: Windows 10 22H2
+- Minimum: Windows Vista SP2
+- Recommended: Windows 10 22H2
 
 **Created by Neo802, now free for use under MIT License since July 15th 2025.**
 
