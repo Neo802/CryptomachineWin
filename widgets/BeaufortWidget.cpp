@@ -9,12 +9,15 @@ BeaufortWidget::BeaufortWidget(QWidget* parent)
     : QWidget(parent)
 {
     auto* layout = new QVBoxLayout(this);
-    layout->addWidget(new QLabel("Beaufort Cipher Widget", this));
+    auto* label = new QLabel("Beaufort Cipher Widget", this);
+    layout->addWidget(label);
 
     auto* textEdit = new QLineEdit;
     auto* keyEdit = new QLineEdit;
     auto* resultLabel = new QLabel;
     auto* encryptBtn = new QPushButton("Encrypt/Decrypt");
+
+    resultLabel->setTextInteractionFlags(Qt::TextSelectableByMouse | Qt::TextSelectableByKeyboard);
 
     layout->addWidget(new QLabel("Text:"));
     layout->addWidget(textEdit);

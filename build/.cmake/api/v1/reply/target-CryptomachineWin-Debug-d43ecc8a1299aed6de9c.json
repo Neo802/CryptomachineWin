@@ -30,10 +30,13 @@
 			"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake",
 			"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
 			"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
-			"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake",
-			"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake",
+			"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake",
 			"C:/Program Files/Microsoft Visual Studio/2022/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
 			"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake",
+			"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake",
+			"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
 			"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake"
 		],
 		"nodes" : 
@@ -50,7 +53,7 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 56,
+				"line" : 58,
 				"parent" : 0
 			},
 			{
@@ -127,9 +130,9 @@
 			},
 			{
 				"command" : 3,
-				"file" : 2,
-				"line" : 43,
-				"parent" : 6
+				"file" : 5,
+				"line" : 45,
+				"parent" : 13
 			},
 			{
 				"file" : 10,
@@ -138,7 +141,7 @@
 			{
 				"command" : 6,
 				"file" : 10,
-				"line" : 45,
+				"line" : 46,
 				"parent" : 18
 			},
 			{
@@ -174,6 +177,60 @@
 				"parent" : 24
 			},
 			{
+				"command" : 2,
+				"file" : 6,
+				"line" : 83,
+				"parent" : 24
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 43,
+				"parent" : 6
+			},
+			{
+				"file" : 13,
+				"parent" : 27
+			},
+			{
+				"command" : 6,
+				"file" : 13,
+				"line" : 45,
+				"parent" : 28
+			},
+			{
+				"command" : 5,
+				"file" : 9,
+				"line" : 137,
+				"parent" : 29
+			},
+			{
+				"command" : 4,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 30
+			},
+			{
+				"file" : 12,
+				"parent" : 31
+			},
+			{
+				"command" : 3,
+				"file" : 12,
+				"line" : 55,
+				"parent" : 32
+			},
+			{
+				"file" : 11,
+				"parent" : 33
+			},
+			{
+				"command" : 2,
+				"file" : 11,
+				"line" : 61,
+				"parent" : 34
+			},
+			{
 				"command" : 7,
 				"file" : 0,
 				"line" : 20,
@@ -203,6 +260,10 @@
 				{
 					"backtrace" : 2,
 					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_NEEDS_QMAIN"
 				},
 				{
 					"backtrace" : 2,
@@ -240,15 +301,15 @@
 					"path" : "C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include"
 				},
 				{
-					"backtrace" : 26,
+					"backtrace" : 36,
 					"path" : "C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin"
 				},
 				{
-					"backtrace" : 26,
+					"backtrace" : 36,
 					"path" : "C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms"
 				},
 				{
-					"backtrace" : 26,
+					"backtrace" : 36,
 					"path" : "C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets"
 				},
 				{
@@ -331,7 +392,7 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "",
+				"fragment" : "-mwindows",
 				"role" : "flags"
 			},
 			{
@@ -361,21 +422,36 @@
 			},
 			{
 				"backtrace" : 25,
+				"fragment" : "-lmingw32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 25,
+				"fragment" : "C:\\Qt\\6.9.1\\mingw_64\\lib\\libQt6EntryPoint.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "-lshell32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 35,
 				"fragment" : "-ld3d11",
 				"role" : "libraries"
 			},
 			{
-				"backtrace" : 25,
+				"backtrace" : 35,
 				"fragment" : "-ldxgi",
 				"role" : "libraries"
 			},
 			{
-				"backtrace" : 25,
+				"backtrace" : 35,
 				"fragment" : "-ldxguid",
 				"role" : "libraries"
 			},
 			{
-				"backtrace" : 25,
+				"backtrace" : 35,
 				"fragment" : "-ld3d12",
 				"role" : "libraries"
 			},

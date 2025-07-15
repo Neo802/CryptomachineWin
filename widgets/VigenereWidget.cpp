@@ -9,11 +9,16 @@ VigenereWidget::VigenereWidget(QWidget* parent)
     : QWidget(parent)
 {
     auto* layout = new QVBoxLayout(this);
+    auto* label = new QLabel("Vigenere Cipher Widget", this);
+    layout->addWidget(label);
+
     auto* textEdit = new QLineEdit;
     auto* keyEdit = new QLineEdit;
     auto* resultLabel = new QLabel;
     auto* encryptBtn = new QPushButton("Encrypt");
     auto* decryptBtn = new QPushButton("Decrypt");
+
+    resultLabel->setTextInteractionFlags(Qt::TextSelectableByMouse | Qt::TextSelectableByKeyboard);
 
     layout->addWidget(new QLabel("Text:"));
     layout->addWidget(textEdit);

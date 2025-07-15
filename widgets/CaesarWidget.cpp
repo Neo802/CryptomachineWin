@@ -14,6 +14,9 @@ CaesarWidget::CaesarWidget(QWidget* parent)
     auto* resultLabel = new QLabel;
     auto* encryptBtn = new QPushButton("Encrypt");
     auto* decryptBtn = new QPushButton("Decrypt");
+    auto* label = new QLabel("Caesar Cipher Widget", this);
+
+    resultLabel->setTextInteractionFlags(Qt::TextSelectableByMouse | Qt::TextSelectableByKeyboard);
 
     layout->addWidget(new QLabel("Text:"));
     layout->addWidget(textEdit);
@@ -23,7 +26,7 @@ CaesarWidget::CaesarWidget(QWidget* parent)
     layout->addWidget(decryptBtn);
     layout->addWidget(new QLabel("Result:"));
     layout->addWidget(resultLabel);
-    layout->addWidget(new QLabel("Caesar Cipher Widget", this));
+    layout->addWidget(label);
 
     Caesar* caesar = new Caesar;
 

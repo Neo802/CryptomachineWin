@@ -9,7 +9,8 @@ TwoSquareWidget::TwoSquareWidget(QWidget* parent)
     : QWidget(parent)
 {
     auto* layout = new QVBoxLayout(this);
-    layout->addWidget(new QLabel("Two Square Cipher Widget", this));
+    auto* label = new QLabel("Two Square Cipher Widget", this);
+    layout->addWidget(label);
 
     auto* textEdit = new QLineEdit;
     auto* keyEdit = new QLineEdit;
@@ -18,6 +19,7 @@ TwoSquareWidget::TwoSquareWidget(QWidget* parent)
     auto* decryptBtn = new QPushButton("Decrypt");
 
     keyEdit->setPlaceholderText("KEY1;KEY2");
+    resultLabel->setTextInteractionFlags(Qt::TextSelectableByMouse | Qt::TextSelectableByKeyboard);
 
     layout->addWidget(new QLabel("Text:"));
     layout->addWidget(textEdit);

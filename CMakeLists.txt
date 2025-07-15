@@ -53,4 +53,6 @@ endif()
 
 add_executable(CryptomachineWin ${SOURCE_FILES})
 
+set_target_properties(CryptomachineWin PROPERTIES WIN32_EXECUTABLE TRUE)
+
 target_link_libraries(CryptomachineWin PRIVATE Qt6::Core Qt6::Widgets)

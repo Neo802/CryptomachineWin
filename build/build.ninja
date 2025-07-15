@@ -50,7 +50,7 @@ cmake_ninja_workdir = C$:/Users/Albert/Documents/CPP$ Job$ Projects/Cryptomachin
 build cmake_object_order_depends_target_CryptomachineWin: phony || CryptomachineWin_autogen CryptomachineWin_autogen/mocs_compilation.cpp CryptomachineWin_autogen/timestamp CryptomachineWin_autogen_timestamp_deps
 
 build CMakeFiles/CryptomachineWin.dir/CryptomachineWin_autogen/mocs_compilation.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/build/CryptomachineWin_autogen/mocs_compilation.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\CryptomachineWin_autogen\mocs_compilation.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -58,7 +58,7 @@ build CMakeFiles/CryptomachineWin.dir/CryptomachineWin_autogen/mocs_compilation.
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir\CryptomachineWin_autogen
 
 build CMakeFiles/CryptomachineWin.dir/main.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/main.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\main.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -66,7 +66,7 @@ build CMakeFiles/CryptomachineWin.dir/main.cpp.obj: CXX_COMPILER__CryptomachineW
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir
 
 build CMakeFiles/CryptomachineWin.dir/MainWindow.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/MainWindow.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\MainWindow.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -74,7 +74,7 @@ build CMakeFiles/CryptomachineWin.dir/MainWindow.cpp.obj: CXX_COMPILER__Cryptoma
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir
 
 build CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Autokey.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/cryptomachine/algorithms/Autokey.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\cryptomachine\algorithms\Autokey.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -82,7 +82,7 @@ build CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Autokey.cpp.obj: 
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir\cryptomachine\algorithms
 
 build CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Beaufort.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/cryptomachine/algorithms/Beaufort.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\cryptomachine\algorithms\Beaufort.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -90,7 +90,7 @@ build CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Beaufort.cpp.obj:
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir\cryptomachine\algorithms
 
 build CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Caesar.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/cryptomachine/algorithms/Caesar.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\cryptomachine\algorithms\Caesar.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -98,7 +98,7 @@ build CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Caesar.cpp.obj: C
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir\cryptomachine\algorithms
 
 build CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/FourSquare.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/cryptomachine/algorithms/FourSquare.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\cryptomachine\algorithms\FourSquare.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -106,7 +106,7 @@ build CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/FourSquare.cpp.ob
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir\cryptomachine\algorithms
 
 build CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Playfair.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/cryptomachine/algorithms/Playfair.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\cryptomachine\algorithms\Playfair.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -114,7 +114,7 @@ build CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Playfair.cpp.obj:
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir\cryptomachine\algorithms
 
 build CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/TwoSquare.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/cryptomachine/algorithms/TwoSquare.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\cryptomachine\algorithms\TwoSquare.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -122,7 +122,7 @@ build CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/TwoSquare.cpp.obj
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir\cryptomachine\algorithms
 
 build CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Vatsayana.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/cryptomachine/algorithms/Vatsayana.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\cryptomachine\algorithms\Vatsayana.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -130,7 +130,7 @@ build CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Vatsayana.cpp.obj
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir\cryptomachine\algorithms
 
 build CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Vigenere.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/cryptomachine/algorithms/Vigenere.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\cryptomachine\algorithms\Vigenere.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -138,7 +138,7 @@ build CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Vigenere.cpp.obj:
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir\cryptomachine\algorithms
 
 build CMakeFiles/CryptomachineWin.dir/widgets/CaesarWidget.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/widgets/CaesarWidget.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\widgets\CaesarWidget.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -146,7 +146,7 @@ build CMakeFiles/CryptomachineWin.dir/widgets/CaesarWidget.cpp.obj: CXX_COMPILER
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir\widgets
 
 build CMakeFiles/CryptomachineWin.dir/widgets/VigenereWidget.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/widgets/VigenereWidget.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\widgets\VigenereWidget.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -154,7 +154,7 @@ build CMakeFiles/CryptomachineWin.dir/widgets/VigenereWidget.cpp.obj: CXX_COMPIL
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir\widgets
 
 build CMakeFiles/CryptomachineWin.dir/widgets/BeaufortWidget.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/widgets/BeaufortWidget.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\widgets\BeaufortWidget.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -162,7 +162,7 @@ build CMakeFiles/CryptomachineWin.dir/widgets/BeaufortWidget.cpp.obj: CXX_COMPIL
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir\widgets
 
 build CMakeFiles/CryptomachineWin.dir/widgets/AutokeyWidget.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/widgets/AutokeyWidget.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\widgets\AutokeyWidget.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -170,7 +170,7 @@ build CMakeFiles/CryptomachineWin.dir/widgets/AutokeyWidget.cpp.obj: CXX_COMPILE
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir\widgets
 
 build CMakeFiles/CryptomachineWin.dir/widgets/VatsayanaWidget.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/widgets/VatsayanaWidget.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\widgets\VatsayanaWidget.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -178,7 +178,7 @@ build CMakeFiles/CryptomachineWin.dir/widgets/VatsayanaWidget.cpp.obj: CXX_COMPI
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir\widgets
 
 build CMakeFiles/CryptomachineWin.dir/widgets/PlayfairWidget.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/widgets/PlayfairWidget.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\widgets\PlayfairWidget.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -186,7 +186,7 @@ build CMakeFiles/CryptomachineWin.dir/widgets/PlayfairWidget.cpp.obj: CXX_COMPIL
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir\widgets
 
 build CMakeFiles/CryptomachineWin.dir/widgets/TwoSquareWidget.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/widgets/TwoSquareWidget.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\widgets\TwoSquareWidget.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -194,7 +194,7 @@ build CMakeFiles/CryptomachineWin.dir/widgets/TwoSquareWidget.cpp.obj: CXX_COMPI
   OBJECT_FILE_DIR = CMakeFiles\CryptomachineWin.dir\widgets
 
 build CMakeFiles/CryptomachineWin.dir/widgets/FourSquareWidget.cpp.obj: CXX_COMPILER__CryptomachineWin_unscanned_Debug C$:/Users/Albert/Documents/CPP$ Job$ Projects/CryptomachineWin/widgets/FourSquareWidget.cpp || cmake_object_order_depends_target_CryptomachineWin
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\CryptomachineWin.dir\widgets\FourSquareWidget.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17
   INCLUDES = -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/include" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/algorithms" -I"C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/cryptomachine/widgets" -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
@@ -209,9 +209,10 @@ build CMakeFiles/CryptomachineWin.dir/widgets/FourSquareWidget.cpp.obj: CXX_COMP
 #############################################
 # Link the executable CryptomachineWin.exe
 
-build CryptomachineWin.exe: CXX_EXECUTABLE_LINKER__CryptomachineWin_Debug CMakeFiles/CryptomachineWin.dir/CryptomachineWin_autogen/mocs_compilation.cpp.obj CMakeFiles/CryptomachineWin.dir/main.cpp.obj CMakeFiles/CryptomachineWin.dir/MainWindow.cpp.obj CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Autokey.cpp.obj CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Beaufort.cpp.obj CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Caesar.cpp.obj CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/FourSquare.cpp.obj CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Playfair.cpp.obj CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/TwoSquare.cpp.obj CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Vatsayana.cpp.obj CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Vigenere.cpp.obj CMakeFiles/CryptomachineWin.dir/widgets/CaesarWidget.cpp.obj CMakeFiles/CryptomachineWin.dir/widgets/VigenereWidget.cpp.obj CMakeFiles/CryptomachineWin.dir/widgets/BeaufortWidget.cpp.obj CMakeFiles/CryptomachineWin.dir/widgets/AutokeyWidget.cpp.obj CMakeFiles/CryptomachineWin.dir/widgets/VatsayanaWidget.cpp.obj CMakeFiles/CryptomachineWin.dir/widgets/PlayfairWidget.cpp.obj CMakeFiles/CryptomachineWin.dir/widgets/TwoSquareWidget.cpp.obj CMakeFiles/CryptomachineWin.dir/widgets/FourSquareWidget.cpp.obj | C$:/Qt/6.9.1/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.9.1/mingw_64/lib/libQt6Gui.a C$:/Qt/6.9.1/mingw_64/lib/libQt6Core.a || CryptomachineWin_autogen CryptomachineWin_autogen_timestamp_deps
+build CryptomachineWin.exe: CXX_EXECUTABLE_LINKER__CryptomachineWin_Debug CMakeFiles/CryptomachineWin.dir/CryptomachineWin_autogen/mocs_compilation.cpp.obj CMakeFiles/CryptomachineWin.dir/main.cpp.obj CMakeFiles/CryptomachineWin.dir/MainWindow.cpp.obj CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Autokey.cpp.obj CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Beaufort.cpp.obj CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Caesar.cpp.obj CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/FourSquare.cpp.obj CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Playfair.cpp.obj CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/TwoSquare.cpp.obj CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Vatsayana.cpp.obj CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Vigenere.cpp.obj CMakeFiles/CryptomachineWin.dir/widgets/CaesarWidget.cpp.obj CMakeFiles/CryptomachineWin.dir/widgets/VigenereWidget.cpp.obj CMakeFiles/CryptomachineWin.dir/widgets/BeaufortWidget.cpp.obj CMakeFiles/CryptomachineWin.dir/widgets/AutokeyWidget.cpp.obj CMakeFiles/CryptomachineWin.dir/widgets/VatsayanaWidget.cpp.obj CMakeFiles/CryptomachineWin.dir/widgets/PlayfairWidget.cpp.obj CMakeFiles/CryptomachineWin.dir/widgets/TwoSquareWidget.cpp.obj CMakeFiles/CryptomachineWin.dir/widgets/FourSquareWidget.cpp.obj | C$:/Qt/6.9.1/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.9.1/mingw_64/lib/libQt6Gui.a C$:/Qt/6.9.1/mingw_64/lib/libQt6Core.a C$:/Qt/6.9.1/mingw_64/lib/libQt6EntryPoint.a || CryptomachineWin_autogen CryptomachineWin_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g
-  LINK_LIBRARIES = C:/Qt/6.9.1/mingw_64/lib/libQt6Widgets.a  C:/Qt/6.9.1/mingw_64/lib/libQt6Gui.a  C:/Qt/6.9.1/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  LINK_FLAGS = -mwindows
+  LINK_LIBRARIES = C:/Qt/6.9.1/mingw_64/lib/libQt6Widgets.a  C:/Qt/6.9.1/mingw_64/lib/libQt6Gui.a  C:/Qt/6.9.1/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  C:/Qt/6.9.1/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CryptomachineWin.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
@@ -268,7 +269,7 @@ build CryptomachineWin_autogen/timestamp CryptomachineWin_autogen/mocs_compilati
 #############################################
 # Phony custom command for CMakeFiles\CryptomachineWin_autogen_timestamp_deps
 
-build CMakeFiles/CryptomachineWin_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/CryptomachineWin_autogen_timestamp_deps: phony C$:/Qt/6.9.1/mingw_64/bin/moc.exe C$:/Qt/6.9.1/mingw_64/bin/uic.exe C$:/Qt/6.9.1/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.9.1/mingw_64/lib/libQt6Core.a
+build CMakeFiles/CryptomachineWin_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/CryptomachineWin_autogen_timestamp_deps: phony C$:/Qt/6.9.1/mingw_64/bin/moc.exe C$:/Qt/6.9.1/mingw_64/lib/libQt6Core.a C$:/Qt/6.9.1/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.9.1/mingw_64/bin/uic.exe
 
 
 #############################################

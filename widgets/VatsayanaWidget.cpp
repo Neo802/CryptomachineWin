@@ -9,7 +9,8 @@ VatsayanaWidget::VatsayanaWidget(QWidget* parent)
     : QWidget(parent)
 {
     auto* layout = new QVBoxLayout(this);
-    layout->addWidget(new QLabel("Vatsayana Cipher Widget", this));
+    auto* label = new QLabel("Vatsayana Cipher Widget", this);
+    layout->addWidget(label);
 
     auto* textEdit = new QLineEdit;
     auto* keyMapEdit = new QLineEdit;
@@ -18,6 +19,7 @@ VatsayanaWidget::VatsayanaWidget(QWidget* parent)
     auto* decryptBtn = new QPushButton("Decrypt");
 
     keyMapEdit->setPlaceholderText("Key mapping (26 letters, e.g. QWERTY...)");
+    resultLabel->setTextInteractionFlags(Qt::TextSelectableByMouse | Qt::TextSelectableByKeyboard);
 
     layout->addWidget(new QLabel("Text:"));
     layout->addWidget(textEdit);

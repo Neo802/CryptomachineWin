@@ -1,32 +1,82 @@
 # ninja log v6
 2066	5181	7742911777075729	CMakeFiles/CryptomachineWin.dir/main.cpp.obj	daa59a3ddf42fd23
 2074	4136	7742911777159730	CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Autokey.cpp.obj	4d5d2afb40072449
-1876	2166	7742902286246575	CryptomachineWin.exe	f3476c072d19806d
+7554	8067	7742912964837133	CryptomachineWin.exe	dd1484f6c909807c
+3829	7453	7742912927589334	CMakeFiles/CryptomachineWin.dir/widgets/FourSquareWidget.cpp.obj	af7c43a18e9b6db7
 2092	5010	7742911777339011	CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Playfair.cpp.obj	21bd3739043e0125
 2108	4185	7742911777500179	CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Vigenere.cpp.obj	e15b1be12191a948
 2082	4182	7742911777238125	CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Caesar.cpp.obj	5dd5d233f629123f
 2097	5004	7742911777387148	CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/TwoSquare.cpp.obj	75509e37cb4a4bfd
 2078	4129	7742911777203373	CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Beaufort.cpp.obj	9ce901f2fbf6deb6
 2102	4213	7742911777442543	CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Vatsayana.cpp.obj	53b478b90425856f
+3823	7553	7742912927531791	CMakeFiles/CryptomachineWin.dir/widgets/TwoSquareWidget.cpp.obj	f35a0c406655af2b
 2087	4909	7742911777289480	CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/FourSquare.cpp.obj	364a6df05d35d8a9
-203	2163	7742912257309045	CMakeFiles/CryptomachineWin.dir/MainWindow.cpp.obj	ebeb1cb836309127
-40	202	7742912255693109	CryptomachineWin_autogen/timestamp	b665d5f83b2a20f
-40	202	7742912255693109	CryptomachineWin_autogen/mocs_compilation.cpp	b665d5f83b2a20f
-40	202	7742912255693109	C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/timestamp	b665d5f83b2a20f
-40	202	7742912255693109	C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/mocs_compilation.cpp	b665d5f83b2a20f
-2062	5135	7742911777034828	CMakeFiles/CryptomachineWin.dir/CryptomachineWin_autogen/mocs_compilation.cpp.obj	a21de01cdcca7910
-38	3789	7742912926358635	CryptomachineWin_autogen/timestamp	b665d5f83b2a20f
-38	3789	7742912926358635	CryptomachineWin_autogen/mocs_compilation.cpp	b665d5f83b2a20f
-38	3789	7742912926358635	C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/timestamp	b665d5f83b2a20f
-38	3789	7742912926358635	C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/mocs_compilation.cpp	b665d5f83b2a20f
-3793	7165	7742912927227554	CMakeFiles/CryptomachineWin.dir/MainWindow.cpp.obj	ebeb1cb836309127
+298	2377	7742918853854070	CMakeFiles/CryptomachineWin.dir/MainWindow.cpp.obj	ebeb1cb836309127
 3801	7346	7742912927308141	CMakeFiles/CryptomachineWin.dir/widgets/VigenereWidget.cpp.obj	4c134c73fe506cba
+43	297	7742918851310790	CryptomachineWin_autogen/timestamp	b665d5f83b2a20f
+43	297	7742918851310790	CryptomachineWin_autogen/mocs_compilation.cpp	b665d5f83b2a20f
+43	297	7742918851310790	C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/timestamp	b665d5f83b2a20f
+43	297	7742918851310790	C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/mocs_compilation.cpp	b665d5f83b2a20f
 3789	7378	7742912927187250	CMakeFiles/CryptomachineWin.dir/CryptomachineWin_autogen/mocs_compilation.cpp.obj	a21de01cdcca7910
 3809	7414	7742912927388153	CMakeFiles/CryptomachineWin.dir/widgets/AutokeyWidget.cpp.obj	d2603ba8c5c8b077
 3805	7415	7742912927348137	CMakeFiles/CryptomachineWin.dir/widgets/BeaufortWidget.cpp.obj	a5d39b7caefc1558
 3797	7417	7742912927268078	CMakeFiles/CryptomachineWin.dir/widgets/CaesarWidget.cpp.obj	dac4b9663fccf8ab
-3829	7453	7742912927589334	CMakeFiles/CryptomachineWin.dir/widgets/FourSquareWidget.cpp.obj	af7c43a18e9b6db7
 3813	7476	7742912927428167	CMakeFiles/CryptomachineWin.dir/widgets/VatsayanaWidget.cpp.obj	4db39c9e237a43ad
 3818	7506	7742912927475826	CMakeFiles/CryptomachineWin.dir/widgets/PlayfairWidget.cpp.obj	be3eaf2c41f9a65a
-3823	7553	7742912927531791	CMakeFiles/CryptomachineWin.dir/widgets/TwoSquareWidget.cpp.obj	f35a0c406655af2b
-7554	8067	7742912964837133	CryptomachineWin.exe	dd1484f6c909807c
+26	3818	7742919700994108	CryptomachineWin_autogen/timestamp	b665d5f83b2a20f
+26	3818	7742919700994108	CryptomachineWin_autogen/mocs_compilation.cpp	b665d5f83b2a20f
+26	3818	7742919700994108	C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/timestamp	b665d5f83b2a20f
+26	3818	7742919700994108	C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/mocs_compilation.cpp	b665d5f83b2a20f
+3831	7225	7742919701998847	CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Autokey.cpp.obj	d363e98fdd7288c2
+3835	7240	7742919702038966	CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Beaufort.cpp.obj	f2f1e2398dce1ff3
+3872	7259	7742919702408164	CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Vigenere.cpp.obj	81025084e2a1f916
+3840	7261	7742919702084736	CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Caesar.cpp.obj	7db85847d42d5bfe
+3866	7301	7742919702340962	CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Vatsayana.cpp.obj	375e0fa7b3e03dc6
+3846	8567	7742919702142145	CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/FourSquare.cpp.obj	7c467452ebce17bd
+3853	8702	7742919702218455	CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/Playfair.cpp.obj	10a485c82c7c8698
+3859	8773	7742919702268465	CMakeFiles/CryptomachineWin.dir/cryptomachine/algorithms/TwoSquare.cpp.obj	e76e470a6f3c0603
+3823	9098	7742919701915512	CMakeFiles/CryptomachineWin.dir/main.cpp.obj	f28dcb4140f01bc3
+3819	9402	7742919701868391	CMakeFiles/CryptomachineWin.dir/CryptomachineWin_autogen/mocs_compilation.cpp.obj	ea310b7aee1efb9a
+3879	9640	7742919702473580	CMakeFiles/CryptomachineWin.dir/widgets/CaesarWidget.cpp.obj	7be7e998ef0338a5
+3827	10215	7742919701950498	CMakeFiles/CryptomachineWin.dir/MainWindow.cpp.obj	2c601ecf6aec939d
+3915	10257	7742919702840653	CMakeFiles/CryptomachineWin.dir/widgets/PlayfairWidget.cpp.obj	34eeb8d19357981a
+3901	10317	7742919702699482	CMakeFiles/CryptomachineWin.dir/widgets/AutokeyWidget.cpp.obj	7a89f021f33dcbeb
+3886	10390	7742919702553893	CMakeFiles/CryptomachineWin.dir/widgets/VigenereWidget.cpp.obj	bbfdf56d7e66ac80
+3893	10392	7742919702619197	CMakeFiles/CryptomachineWin.dir/widgets/BeaufortWidget.cpp.obj	49e2a518a86968f0
+3923	10598	7742919702910821	CMakeFiles/CryptomachineWin.dir/widgets/TwoSquareWidget.cpp.obj	611f0a8e0fe6307
+3908	10609	7742919702759125	CMakeFiles/CryptomachineWin.dir/widgets/VatsayanaWidget.cpp.obj	d2d2a8373d11ab56
+7225	11512	7742919735939579	CMakeFiles/CryptomachineWin.dir/widgets/FourSquareWidget.cpp.obj	89b516211497b3eb
+11512	12013	7742919778809609	CryptomachineWin.exe	fda6263bba18149c
+43	306	7742923126826283	CryptomachineWin_autogen/timestamp	b665d5f83b2a20f
+43	306	7742923126826283	CryptomachineWin_autogen/mocs_compilation.cpp	b665d5f83b2a20f
+43	306	7742923126826283	C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/timestamp	b665d5f83b2a20f
+43	306	7742923126826283	C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/mocs_compilation.cpp	b665d5f83b2a20f
+307	2613	7742923129461003	CMakeFiles/CryptomachineWin.dir/main.cpp.obj	f28dcb4140f01bc3
+2613	3140	7742923152522196	CryptomachineWin.exe	fda6263bba18149c
+44	298	7742923987500978	CryptomachineWin_autogen/timestamp	b665d5f83b2a20f
+44	298	7742923987500978	CryptomachineWin_autogen/mocs_compilation.cpp	b665d5f83b2a20f
+44	298	7742923987500978	C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/timestamp	b665d5f83b2a20f
+44	298	7742923987500978	C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/mocs_compilation.cpp	b665d5f83b2a20f
+298	4293	7742923990044663	CMakeFiles/CryptomachineWin.dir/main.cpp.obj	f28dcb4140f01bc3
+307	4465	7742923990127220	CMakeFiles/CryptomachineWin.dir/widgets/VigenereWidget.cpp.obj	bbfdf56d7e66ac80
+312	4467	7742923990170740	CMakeFiles/CryptomachineWin.dir/widgets/BeaufortWidget.cpp.obj	49e2a518a86968f0
+325	4538	7742923990311007	CMakeFiles/CryptomachineWin.dir/widgets/PlayfairWidget.cpp.obj	34eeb8d19357981a
+316	4547	7742923990214962	CMakeFiles/CryptomachineWin.dir/widgets/AutokeyWidget.cpp.obj	7a89f021f33dcbeb
+303	4551	7742923990084915	CMakeFiles/CryptomachineWin.dir/widgets/CaesarWidget.cpp.obj	7be7e998ef0338a5
+320	4585	7742923990261370	CMakeFiles/CryptomachineWin.dir/widgets/VatsayanaWidget.cpp.obj	d2d2a8373d11ab56
+336	4602	7742923990418471	CMakeFiles/CryptomachineWin.dir/widgets/FourSquareWidget.cpp.obj	89b516211497b3eb
+330	4660	7742923990356246	CMakeFiles/CryptomachineWin.dir/widgets/TwoSquareWidget.cpp.obj	611f0a8e0fe6307
+52	540	7742924271518969	CryptomachineWin.exe	fda6263bba18149c
+27	330	7742926071639697	CryptomachineWin_autogen/timestamp	b665d5f83b2a20f
+27	330	7742926071639697	CryptomachineWin_autogen/mocs_compilation.cpp	b665d5f83b2a20f
+27	330	7742926071639697	C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/timestamp	b665d5f83b2a20f
+27	330	7742926071639697	C:/Users/Albert/Documents/CPP Job Projects/CryptomachineWin/build/CryptomachineWin_autogen/mocs_compilation.cpp	b665d5f83b2a20f
+330	3966	7742926074665742	CMakeFiles/CryptomachineWin.dir/widgets/CaesarWidget.cpp.obj	7be7e998ef0338a5
+335	3976	7742926074712849	CMakeFiles/CryptomachineWin.dir/widgets/VigenereWidget.cpp.obj	bbfdf56d7e66ac80
+354	3981	7742926074904184	CMakeFiles/CryptomachineWin.dir/widgets/PlayfairWidget.cpp.obj	34eeb8d19357981a
+344	4002	7742926074804393	CMakeFiles/CryptomachineWin.dir/widgets/AutokeyWidget.cpp.obj	7a89f021f33dcbeb
+339	4046	7742926074763585	CMakeFiles/CryptomachineWin.dir/widgets/BeaufortWidget.cpp.obj	49e2a518a86968f0
+366	4118	7742926075019720	CMakeFiles/CryptomachineWin.dir/widgets/FourSquareWidget.cpp.obj	89b516211497b3eb
+360	4119	7742926074971149	CMakeFiles/CryptomachineWin.dir/widgets/TwoSquareWidget.cpp.obj	611f0a8e0fe6307
+349	4131	7742926074857539	CMakeFiles/CryptomachineWin.dir/widgets/VatsayanaWidget.cpp.obj	d2d2a8373d11ab56
+4131	4644	7742926112676869	CryptomachineWin.exe	fda6263bba18149c

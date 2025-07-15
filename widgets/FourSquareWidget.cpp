@@ -9,7 +9,8 @@ FourSquareWidget::FourSquareWidget(QWidget* parent)
     : QWidget(parent)
 {
     auto* layout = new QVBoxLayout(this);
-    layout->addWidget(new QLabel("Four Square Cipher Widget", this));
+    auto* label = new QLabel("Four Square Cipher Widget", this);
+    layout->addWidget(label);
 
     auto* textEdit = new QLineEdit;
     auto* keyEdit = new QLineEdit;
@@ -17,6 +18,7 @@ FourSquareWidget::FourSquareWidget(QWidget* parent)
     auto* encryptBtn = new QPushButton("Encrypt");
     auto* decryptBtn = new QPushButton("Decrypt");
 
+    resultLabel->setTextInteractionFlags(Qt::TextSelectableByMouse | Qt::TextSelectableByKeyboard);
     keyEdit->setPlaceholderText("KEY1;KEY2");
 
     layout->addWidget(new QLabel("Text:"));
