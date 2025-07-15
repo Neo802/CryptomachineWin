@@ -24,7 +24,7 @@ It is capable of performing several cryptographic tasks for several classical **
 **Created by Neo802, now free for use under MIT License since July 15th 2025.**
 
 The original project:
-https://github.com/Neo802/Cryptomachine/tree/main
+https://github.com/Neo802/Cryptomachine
 
 Qt Framework:
 https://www.qt.io/product/framework
