@@ -1,5 +1,5 @@
 # CryptomachineWin - Windows port of the original Cryptomachine
-This project was initially released on GitHub on January 19th 2025, for Android, now ported to Windows on July 15th 2025.
+This project was initially released on GitHub on January 19th 2025, for Android, now ported to Windows on July 15th 2025 in C++ thanks to the Qt Framework.
 It is capable of performing several cryptographic tasks for several classical **cypher algorithms**, such as:
 - Caesar 
 - Vatsayana
@@ -25,3 +25,6 @@ It is capable of performing several cryptographic tasks for several classical **
 
 The original project:
 https://github.com/Neo802/Cryptomachine/tree/main
+
+Qt Framework:
+https://www.qt.io/product/framework
