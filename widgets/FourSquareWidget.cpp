@@ -9,7 +9,8 @@ FourSquareWidget::FourSquareWidget(QWidget* parent)
     : QWidget(parent)
 {
     auto* layout = new QVBoxLayout(this);
-    auto* label = new QLabel("Four Square Cipher Widget", this);
+
+    auto* label = new QLabel("<h2>Four Square Cipher Widget</h2>", this);
     layout->addWidget(label);
 
     auto* textEdit = new QLineEdit;

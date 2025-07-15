@@ -9,7 +9,8 @@ AutokeyWidget::AutokeyWidget(QWidget* parent)
     : QWidget(parent)
 {
     auto* layout = new QVBoxLayout(this);
-    auto* label = new QLabel("Autokey Cipher Widget", this);
+
+    auto* label = new QLabel("<h2>Autokey Cipher Widget</h2>", this);
     layout->addWidget(label);
 
     auto* textEdit = new QLineEdit;
