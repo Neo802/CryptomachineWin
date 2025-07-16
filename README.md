@@ -18,8 +18,8 @@ It is capable of performing several cryptographic tasks for several classical **
 - All other algorithms can be selected from the menu <img width="835" height="452" alt="image" src="https://github.com/user-attachments/assets/91296485-6a9e-4ac0-b781-397813f0faa5" />
 
 ## System Requirements
-- Minimum: Windows Vista SP2
-- Recommended: Windows 10 22H2 and above
+- Minimum: Windows Vista SP2(x64)
+- Recommended: Windows 10 22H2(x64) and above
 
 **Created by Neo802, now free for use under MIT License since July 15th 2025.**
 
